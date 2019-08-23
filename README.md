@@ -20,3 +20,14 @@ Well, we slimmed it down to a two button build (you can always wire more on your
 | ---- | ------ |
 |      ![Top Board](assets/GabozeLiteTop.png)|     ![Bottom Board](assets/GabozeLiteBottom.png)   |
 
+## More Soon
+> Stay Up To Date
+
+* [x] Be Sure To ** Watch ** This Repo
+* [ ] Help Out By ** Starring ** This Repo
+
+------
+#### Buy Us A Coffee
+> It's Not Mandatory, But Much [Appreciated](https://www.paypal.me/32teeth/1.99USD)
+
+Everything we provide is free to use, Feedback is always welcome.
