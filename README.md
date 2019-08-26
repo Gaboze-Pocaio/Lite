@@ -23,8 +23,8 @@ Well, we slimmed it down to a two button build (you can always wire more on your
 ## More Soon
 > Stay Up To Date
 
-* [x] Be Sure To ** Watch ** This Repo
-* [ ] Help Out By ** Starring ** This Repo
+* [x] Be Sure To **Watch** This Repo
+* [ ] Help Out By **Starring** This Repo
 
 ------
 #### Buy Us A Coffee
